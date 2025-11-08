@@ -1,6 +1,6 @@
 # Rust + Nix Demo
 
-Weekend project learning Nix flakes by building and deploying a Rust web service. Built to understand reproducible builds and Nix/Rust interaction.
+Weekend project learning Nix flakes by building and deploying a Rust web service. Built to understand reproducible builds and Nix/Rust interaction. Followed [this guide](https://fasterthanli.me/series/building-a-rust-service-with-nix) as a starting point, then adapted for my environment (openSUSE → AWS EC2).
 
 ## Live Demo
 
